@@ -1,4 +1,4 @@
-Tautan Video Presentasi: https://youtu.be/contoh_video_unlisted (Ganti dengan URL video YouTube Unlisted Anda)
+Tautan Video Presentasi: https://youtu.be/9eAGwI2lk-A
 
 # Proyek UTS Komputasi Paralel dan Terdistribusi
 **Tema Aplikasi:** API Toko Buku  
